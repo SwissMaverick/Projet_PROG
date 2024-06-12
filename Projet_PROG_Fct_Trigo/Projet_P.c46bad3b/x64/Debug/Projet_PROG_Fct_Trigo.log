@@ -1,0 +1,10 @@
+﻿  FctTrigo.c
+D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\FctTrigo.c(70,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\FctTrigo.c(72,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\FctTrigo.c(77,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\FctTrigo.c(79,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\FctTrigo.c(86,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\FctTrigo.c(88,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\FctTrigo.c(95,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\FctTrigo.c(97,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Projet_PROG_Fct_Trigo.vcxproj -> D:\GitHub Code\Projet_PROG\Projet_PROG_Fct_Trigo\x64\Debug\Projet_PROG_Fct_Trigo.exe
